@@ -1,0 +1,8 @@
+{
+  "name": "uPymes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "a80c22eb"
+}
